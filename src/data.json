@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "idTypePreference": "1",
+      "name": "Deporte",
+      "preference": [
+        {
+          "idPreference": "12",
+          "name": "Nike",
+          "isEnabled": true
+        },
+        {
+          "idPreference": "13",
+          "name": "Adidas",
+          "isEnabled": false
+        }
+      ]
+    },
+
+    {
+      "idTypePreference": "2",
+      "name": "Comida",
+      "preference": [
+        {
+          "idPreference": "14",
+          "name": "La Canoa",
+          "isEnabled": true
+        },
+        {
+          "idPreference": "15",
+          "name": "Frico",
+          "isEnabled": false
+        }
+      ]
+    }
+  ]
+}
